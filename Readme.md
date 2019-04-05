@@ -1,12 +1,12 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/EnableEFBrowseButton/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/EnableEFBrowseButton/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/EnableEFBrowseButton/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/EnableEFBrowseButton/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/EnableEFBrowseButton/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/EnableEFBrowseButton/MainWindow.xaml.vb))
 * [UseDataSourceWizardSettings.xaml](./CS/EnableEFBrowseButton/UseDataSourceWizardSettings.xaml) (VB: [UseDataSourceWizardSettings.xaml](./VB/EnableEFBrowseButton/UseDataSourceWizardSettings.xaml))
-* [UseDataSourceWizardSettings.xaml.cs](./CS/EnableEFBrowseButton/UseDataSourceWizardSettings.xaml.cs) (VB: [UseDataSourceWizardSettings.xaml](./VB/EnableEFBrowseButton/UseDataSourceWizardSettings.xaml))
+* [UseDataSourceWizardSettings.xaml.cs](./CS/EnableEFBrowseButton/UseDataSourceWizardSettings.xaml.cs) (VB: [UseDataSourceWizardSettings.xaml.vb](./VB/EnableEFBrowseButton/UseDataSourceWizardSettings.xaml.vb))
 * [UseEFOptionsAndCustomization.xaml](./CS/EnableEFBrowseButton/UseEFOptionsAndCustomization.xaml) (VB: [UseEFOptionsAndCustomization.xaml](./VB/EnableEFBrowseButton/UseEFOptionsAndCustomization.xaml))
-* [UseEFOptionsAndCustomization.xaml.cs](./CS/EnableEFBrowseButton/UseEFOptionsAndCustomization.xaml.cs) (VB: [UseEFOptionsAndCustomization.xaml](./VB/EnableEFBrowseButton/UseEFOptionsAndCustomization.xaml))
+* [UseEFOptionsAndCustomization.xaml.cs](./CS/EnableEFBrowseButton/UseEFOptionsAndCustomization.xaml.cs) (VB: [UseEFOptionsAndCustomization.xaml.vb](./VB/EnableEFBrowseButton/UseEFOptionsAndCustomization.xaml.vb))
 <!-- default file list end -->
 # Report Designer for WPF - How to enable end-users to load custom assemblies to the Entity Framework context
 
