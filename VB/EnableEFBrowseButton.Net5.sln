@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EnableEFBrowseButton", "EnableEFBrowseButton\EnableEFBrowseButton.vbproj", "{CED8D5B4-258A-4438-85C2-583BDA44B0BC}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EnableEFBrowseButton", "EnableEFBrowseButton\EnableEFBrowseButton.Net5.vbproj", "{CED8D5B4-258A-4438-85C2-583BDA44B0BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
